@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret/Secret Post.md",
+                "file": "Secret/Secret post two.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret/Secret Post.md",
+                "file": "Secret/Secret post two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret/Secret Post.md",
+                "file": "Secret/Secret post two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret/Secret Post.md"
+                "file": "Secret/Secret post two.md"
               }
             }
           },
@@ -170,13 +170,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb5d1db6c417885d",
+  "active": "88b485fb6679a6b4",
   "lastOpenFiles": [
+    "Secret/Secret Post.md",
+    "Secret/Secret post two.md",
     "Welcome.md",
     "Post one.md",
     "Post two.md",
     "Post three.md",
-    "Secret/Secret Post.md",
     "Secret",
     "Exploring Gospel Topics.md",
     "Top of Mind.md",
@@ -198,7 +199,6 @@
     "Posts/Three Levers of Success.md",
     "Posts/Top of Mind.md",
     "Posts/FAQs.md",
-    "Posts/Book Notes.md",
     "Pasted image 20240211174437.png",
     "Pasted image 20231031132618.png",
     "Pasted image 20231031132433.png"
