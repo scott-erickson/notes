@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Secret/Secret Post.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Secret/Secret Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Secret/Secret Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Secret/Secret Post.md"
               }
             }
           },
@@ -170,12 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88b485fb6679a6b4",
+  "active": "fb5d1db6c417885d",
   "lastOpenFiles": [
+    "Welcome.md",
     "Post one.md",
     "Post two.md",
     "Post three.md",
-    "Welcome.md",
     "Secret/Secret Post.md",
     "Secret",
     "Exploring Gospel Topics.md",
