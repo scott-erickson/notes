@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "showViewHeader": true,
+  "translucency": true,
+  "nativeMenus": true,
+  "textFontFamily": "Inter Variable,SF Pro Text",
+  "interfaceFontFamily": "SF Pro",
+  "cssTheme": "Atom",
+  "theme": "system",
+  "monospaceFontFamily": "SF Mono",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "heading-margin"
+  ]
+}

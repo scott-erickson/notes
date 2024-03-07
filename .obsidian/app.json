@@ -1,0 +1,13 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Posts",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "attachmentFolderPath": "_Attachments",
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "newLinkFormat": "shortest"
+}

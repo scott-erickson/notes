@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Home",
+      "path": "Posts/Home.md"
+    },
+    {
+      "type": "file",
+      "title": "§Top of mind",
+      "path": "Posts/§Top of mind.md"
+    }
+  ]
+}
