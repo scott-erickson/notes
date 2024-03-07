@@ -11,13 +11,8 @@
             "id": "88b485fb6679a6b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret/Secret Post three.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret/Secret Post three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret/Secret Post three.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Secret/Secret Post three.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,16 +161,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88b485fb6679a6b4",
+  "active": "fb5d1db6c417885d",
   "lastOpenFiles": [
     "Secret/Secret post two.md",
     "Secret/Secret Post three.md",
+    "Secret/Secret Post.md",
     "Welcome.md",
     "Post two.md",
     "Post three.md",
     "Post one.md",
     "conflict-files-obsidian-git.md",
-    "Secret/Secret Post.md",
     "Secret",
     "Exploring Gospel Topics.md",
     "Top of Mind.md",
