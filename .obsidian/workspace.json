@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret/Secret post two.md",
+                "file": "Secret/Secret Post three.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret/Secret post two.md",
+                "file": "Secret/Secret Post three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret/Secret post two.md",
+                "file": "Secret/Secret Post three.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret/Secret post two.md"
+                "file": "Secret/Secret Post three.md"
               }
             }
           },
@@ -172,12 +172,14 @@
   },
   "active": "88b485fb6679a6b4",
   "lastOpenFiles": [
-    "Secret/Secret Post.md",
     "Secret/Secret post two.md",
+    "Secret/Secret Post three.md",
     "Welcome.md",
-    "Post one.md",
     "Post two.md",
     "Post three.md",
+    "Post one.md",
+    "conflict-files-obsidian-git.md",
+    "Secret/Secret Post.md",
     "Secret",
     "Exploring Gospel Topics.md",
     "Top of Mind.md",
@@ -197,8 +199,6 @@
     "Posts/Wealth Creation.md",
     "Drafts/To Sort/High Leverage Online Business.md",
     "Posts/Three Levers of Success.md",
-    "Posts/Top of Mind.md",
-    "Posts/FAQs.md",
     "Pasted image 20240211174437.png",
     "Pasted image 20231031132618.png",
     "Pasted image 20231031132433.png"
