@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Post three.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Post three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Post three.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Post three.md"
               }
             }
           },
@@ -173,11 +173,11 @@
   "active": "88b485fb6679a6b4",
   "lastOpenFiles": [
     "Post two.md",
+    "Post three.md",
     "Welcome.md",
     "Secret/Secret post two.md",
     "Secret/Secret Post three.md",
     "Secret/Secret Post.md",
-    "Post three.md",
     "Post one.md",
     "conflict-files-obsidian-git.md",
     "Secret",
