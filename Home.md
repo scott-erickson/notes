@@ -6,6 +6,8 @@ Hey there! I'm Scott, and this is my digital garden 🌿 —a relaxed corner of 
 
 Unlike a traditional blog with an index, think of this place as a walk through a park—each path leading to several rabbit holes. Embrace the chaos and just jump in somewhere.
 
+I am testing.
+
 Navigating through my note archive is straightforward:
 
 - Find out what I'm currently up to on my [[Now]] page.
