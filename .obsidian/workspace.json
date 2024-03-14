@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8647fd9138268c27",
+        "id": "eb76b3d61e8519a8",
         "type": "tabs",
         "children": [
           {
-            "id": "6132f86f3018d1db",
+            "id": "ce4ca78ca185ead6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principles.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Principles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6132f86f3018d1db",
+  "active": "ce4ca78ca185ead6",
   "lastOpenFiles": [
     "Principles.md",
     "Home.md",
