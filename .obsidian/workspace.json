@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post three.md",
+                "file": "Principles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffdc029130798650",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post three.md",
+                "file": "Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post three.md",
+                "file": "Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post three.md"
+                "file": "Principles.md"
               }
             }
           },
@@ -172,24 +173,24 @@
   },
   "active": "88b485fb6679a6b4",
   "lastOpenFiles": [
-    "Post two.md",
+    "Home.md",
+    "Principles.md",
+    "Exploring Gospel Topics.md",
+    "Now.md",
+    "Top of Mind.md",
+    "Topics to write about.md",
+    "FAQ.md",
+    "How to make your own digital garden.md",
+    "How my garden works under the hood.md",
+    "My note workflow.md",
     "Post three.md",
-    "Welcome.md",
+    "Post two.md",
+    "Post one.md",
     "Secret/Secret post two.md",
     "Secret/Secret Post three.md",
     "Secret/Secret Post.md",
-    "Post one.md",
     "conflict-files-obsidian-git.md",
     "Secret",
-    "Exploring Gospel Topics.md",
-    "Top of Mind.md",
-    "Home.md",
-    "How my garden works under the hood.md",
-    "How to make your own digital garden.md",
-    "My note workflow.md",
-    "Now.md",
-    "FAQ.md",
-    "Topics to write about.md",
     "hom.md",
     "nadafda.md",
     "now 1.md",
