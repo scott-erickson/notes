@@ -11,6 +11,7 @@ Navigating through my note archive is straightforward:
 - Find out what I'm currently up to on my [[Now]] page.
 - Find out what I'm thinking about on my [[Top of Mind]] page.
 - Find answers to your questions on the [[FAQ]] page.
+- Testing an upda
 - Explore my list of [[Principles]].
 
 Thanks for stopping by, and be sure to [reach out](mailto:scott@scotterickson.io) if you have any comments on what I have written here!
